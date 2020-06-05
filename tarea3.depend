@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1591301934 source:d:\tercer semestre\estructura de datos\tarea3\tarea3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<ctype.h>
+	"list.h"
+	"Map.h"
+	"SortedMap.h"
+	"funciones.c"
+
+1575514896 d:\tercer semestre\estructura de datos\tarea3\tarea3\sortedmap.h
+
+1590249352 source:d:\tercer semestre\estructura de datos\tarea3\tarea3\sortedmap.c
+	"SortedMap.h"
+	<stdlib.h>
+	<assert.h>
+	<stdio.h>
+
+1591302003 d:\tercer semestre\estructura de datos\tarea3\tarea3\funciones.c
+
+1586478966 source:d:\tercer semestre\estructura de datos\tarea3\tarea3\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1575514896 d:\tercer semestre\estructura de datos\tarea3\tarea3\list.h
+
+1590249323 source:d:\tercer semestre\estructura de datos\tarea3\tarea3\map.c
+	"Map.h"
+	<stdlib.h>
+	<assert.h>
+
+1587647844 d:\tercer semestre\estructura de datos\tarea3\tarea3\map.h
+
